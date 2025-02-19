@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-square&label=Profile%20views&color=0e75b6&style=flat" alt="mr-square" /> </p>
 
 
-- 🔭 I’m currently working on **BSAP | A Flutter App**
+- 🔭 I’m currently working on **e-Commerece | An Angular App**
 
-- 🌱 I’m currently learning **Flutter | Dart | Angular**
+- 🌱 I’m currently learning **Flutter | Angular**
 
 - 👨‍💻 All of my projects are available at [https://mohdraza.netlify.app/](https://mohdraza.netlify.app/)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mohdraza7058@gmail.com**
 
-- ⚡ Fun fact **Love to visit nature-related places. Nephophile, Thalassophile, and Selenophile**
+- ⚡ Fun fact **Nephophile, Thalassophile, and Selenophile**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
